@@ -1,4 +1,6 @@
-var playerName = window.prompt("What is your robot's name")
+var playerName = window.prompt("What is your robot's name");
+// window.alert(playerName)
+console.log(playerName);
 
 
 // function fight() {
@@ -7,7 +9,7 @@ var playerName = window.prompt("What is your robot's name")
 
 //fight();
 
-console.log(playerName);
+// console.log(playerName);
 
 console.log("This logs a string, good for leaving yourself a message");
 // this will do math and log 20
